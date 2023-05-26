@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Ali-Saqib](https://github.com/Muhammad-Ali-Saqib)
 
-- 📫 How to reach me **ali.saqib.ramzan@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I6Z5wUw4ap9r2bpgHioyK8OffglUECht/view?usp=drivesdk](https://drive.google.com/file/d/1I6Z5wUw4ap9r2bpgHioyK8OffglUECht/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
