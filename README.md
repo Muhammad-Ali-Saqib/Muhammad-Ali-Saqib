@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Saqib</h1>
-<h3 align="center">A Passionate Artificial Intelligence Engineer</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ali-saqib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ali-saqib" /> </p>
 
