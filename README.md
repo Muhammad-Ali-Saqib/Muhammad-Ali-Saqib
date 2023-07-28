@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Ali-Saqib](https://github.com/Muhammad-Ali-Saqib)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I6Z5wUw4ap9r2bpgHioyK8OffglUECht/view?usp=drivesdk](https://drive.google.com/file/d/1I6Z5wUw4ap9r2bpgHioyK8OffglUECht/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I6Z5wUw4ap9r2bpgHioyK8OffglUECht/view?usp=drivesdk](https://drive.google.com/drive/folders/1cZFqdnc4HHd-GhZ2bdiTXk2elHkTMd5R?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
